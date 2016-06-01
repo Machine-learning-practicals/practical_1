@@ -1,4 +1,4 @@
-# practical_1 
+# Practical 1 
 
 Keywords: Feature Selection; Regression
 
